@@ -7,7 +7,7 @@ function Child() {
   return (
     <>
       <div>Child loves this food --: {food}</div>
-      <button onClick={handleChange}>Change me daddy</button>
+      <button onClick={handleChange}>Change me</button>
     </>
   );
 }
